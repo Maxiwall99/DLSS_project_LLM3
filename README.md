@@ -1,2 +1,2 @@
 # DLSS_project_LLM
-Repo for our DLSS project.
+Space where great things happen.
